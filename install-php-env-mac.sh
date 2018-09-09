@@ -11,6 +11,7 @@ brew install nginx
 
 # install mysql
 brew install mysql
+mysql_secure_installation
 
 # install php 7.2
 brew install php72
