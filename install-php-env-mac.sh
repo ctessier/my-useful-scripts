@@ -14,3 +14,4 @@ brew install mariadb
 
 # install php 7.2
 brew install php72
+sh install-composer.sh
