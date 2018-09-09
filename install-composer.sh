@@ -15,4 +15,5 @@ php composer-setup.php --quiet
 RESULT=$?
 rm composer-setup.php
 mv composer.phar /usr/local/bin/composer
+export PATH=$PATH:$HOME/.composer/vendor/bin
 exit $RESULT
