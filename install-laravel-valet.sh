@@ -7,3 +7,4 @@ composer global require "laravel/installer"
 composer global update
 composer global require "laravel/valet"
 valet install
+valet domain dev
